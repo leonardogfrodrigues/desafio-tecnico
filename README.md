@@ -63,4 +63,4 @@ O MLP **AmericanasModel** após o treinamento foi salvo em formato .pth e carreg
 O modelo salvo poderá ser utilizado para criação de APIs preditoras. 
 
 ## :computer:  Execução da Solução
-A solução pode ser facilmente executada em nuvem por meio do ambiente Google Colaboratory. 
+A solução pode ser facilmente executada em nuvem por meio do ambiente [Google Colaboratory](https://github.com/leonardogfrodrigues/desafio-tecnico/blob/main/desafio.ipynb). 
