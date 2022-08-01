@@ -46,6 +46,18 @@ Posteriormente, esses índices foram utilizados para verificar a performance do 
 
 Por fim, foi realizada uma comparação entre o **AmericanasModel** e outros modelos tradicionais de aprendizado supervisionado a fim de verificar a robustez do modelo proposto.
 
+| Modelo              | Acurácia (%) | Precisão (%) | Recall (%) | F1-Score (%)  |
+|---------------------|--------------|--------------|------------|---------------|
+| Decision Tree       | 53,85        | 53,76        | 53,73      | 53,68         |   
+| Gradient Boosting   | 62,39        | 62,33        | 62,15      | 61,92         |   
+| Naïve Bayes         | 57,26        | 60,94        | 56,45      | 51,92         |   
+| Regressão Logística | 62,39        | 66,48        | 61,71      | 59,14         |   
+| Random Forest       | 64,1         | 65,76        | 63,34      | 62,66         |   
+| KNN                 | 55,56        | 55,52        | 55,31      | 55            |   
+| SVM (kernel RBF)    | 63,25        | 69,15        | 62,5       | 59,4          |   
+| **AmericanasModel**     | **68,38**        | **68,66**        | **68,51**      | **68,34**         |   
+ 
+
 ## :white_check_mark: Entrega do Modelo
 O MLP **AmericanasModel** após o treinamento foi salvo em formato .pth e carregado para teste. 
 O modelo salvo poderá ser utilizado para criação de APIs preditoras. 
