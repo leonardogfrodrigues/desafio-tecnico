@@ -11,7 +11,7 @@ O desafio foi desenvolvido em linguagen Python (versão 3.7.13) e foi executado 
 
 # Etapas
 
-## :eyeglasses: Análise Exploratória
+## :eyeglasses: Análise Exploratória dos Dados
 Etapa responsável por compreender, realizar estatística descritiva e visual dos dados.
 
 ## :game_die: Preparação dos Dados
