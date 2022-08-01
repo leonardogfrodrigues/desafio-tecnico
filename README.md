@@ -25,7 +25,7 @@ Foi proposto um modelo MultiLayer-Perceptron (MLP) chamado **AmericanasModel**, 
 - 2 hidden layers (camadas ocultas);
 - Batch Normalization e função ReLU entre cada camada;
 - Função dropout para regularizar os dados enviados à camada de saída;
-- 1 camada de saída Sigmódie para o cálculo das probabilidades entre zero e um (0 e 1).
+- 1 camada de saída Sigmóide para o cálculo das probabilidades entre zero e um (0 e 1).
 
 <img src="https://github.com/leonardogfrodrigues/desafio-tecnico/blob/main/figuras/AmericanasModel.png" width="620">
 
