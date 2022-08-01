@@ -24,7 +24,7 @@ Nessa etapa, os dados do conjunto foram normalizados de maneira a se obter a int
 O conjunto de dados foi distribuído em 75% para treino e 25% para teste, totalizando 349 amostras de treino e 117 para teste. 
 
 ## :memo: Modelagem
-Foi proposto um modelo MultiLayer-Perceptron (MLP) chamado **AmericanasModel**, que consiste em uma rede neural apropriada para conjuntos de dados que não são linearmente separáveis. O **AmericanasModel** (conforme visto na Figura 1) possui as seguintes características:
+Foi proposto um modelo MultiLayer-Perceptron (MLP) chamado **AmericanasModel**, que consiste em uma rede neural apropriada para conjuntos de dados que não são linearmente separáveis. O **AmericanasModel** possui as seguintes características:
 
 - 2 hidden layers (camadas ocultas);
 - Batch Normalization e função ReLU entre cada camada;
