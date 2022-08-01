@@ -43,9 +43,8 @@ Posteriormente, esses índices foram utilizados para verificar a performance do 
 Por fim, foi realizada uma comparação entre o **AmericanasModel** e outros modelos tradicionais de aprendizado supervisionado a fim de verificar a robustez do modelo proposto.
 
 ## :white_check_mark: Entrega do Modelo
-O MLP **AmericanasModel** após o treinamento foi salvo em formato .pth e é carregado para teste. 
+O MLP **AmericanasModel** após o treinamento foi salvo em formato .pth e carregado para teste. 
 O modelo salvo poderá ser utilizado para criação de APIs preditoras. 
 
 ## :computer:  Execução da Solução
 A solução pode ser facilmente executada em nuvem por meio do ambiente Google Colaboratory. 
-Para isso, basta clicar em ...
