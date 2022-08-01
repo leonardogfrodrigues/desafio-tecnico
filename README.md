@@ -54,7 +54,7 @@ Por fim, foi realizada uma comparação entre o **AmericanasModel** e outros mod
 | Regressão Logística | 62,39        | 66,48        | 61,71      | 59,14         |   
 | Random Forest       | 64,1         | 65,76        | 63,34      | 62,66         |   
 | KNN                 | 55,56        | 55,52        | 55,31      | 55            |   
-| SVM   | 63,25        | 69,15        | 62,5       | 59,4          |   
+| SVM   | 63,25        | 69,15        | 62,50       | 59,4          |   
 | **AmericanasModel**     | **68,38**        | **68,66**        | **68,51**      | **68,34**         |   
  
 
