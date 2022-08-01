@@ -27,6 +27,8 @@ Foi proposto um modelo MultiLayer-Perceptron (MLP) chamado **AmericanasModel**, 
 - Função dropout para regularizar os dados enviados à camada de saída;
 - 1 camada de saída Sigmódie para o cálculo das probabilidades entre zero e um (0 e 1).
 
+<img src="https://github.com/leonardogfrodrigues/desafio-tecnico/blob/main/figuras/AmericanasModel.png" width="620">
+
 
 ## :chart_with_upwards_trend: Avaliação da Performance do Modelo
 O modelo foi treinado e testado com o **MLP AmericanasModel**, por 100 épocas. Foi avaliado utilizando os índices obtidos da matriz de confusão:
