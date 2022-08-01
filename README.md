@@ -60,6 +60,7 @@ Por fim, foi realizada uma comparação entre o **AmericanasModel** e outros mod
 
 ## :white_check_mark: Entrega do Modelo
 O MLP **AmericanasModel** após o treinamento foi salvo em formato .pth e carregado para teste. 
+
 O modelo salvo poderá ser utilizado para criação de APIs preditoras. 
 
 ## :computer:  Execução da Solução
