@@ -9,6 +9,10 @@ __________________
 ## Desenvolvimento
 O desafio foi desenvolvido em linguagen Python (versão 3.7.13) e foi executado em nuvem por meio do ambiente Google Colaboratory.
 
+## Relatório
+Está disponível em: [Relatório Gerencial](https://github.com/leonardogfrodrigues/desafio-tecnico/blob/main/Relat%C3%B3rio.pdf)
+
+__________________
 # Etapas
 
 ## :eyeglasses: Análise Exploratória dos Dados
